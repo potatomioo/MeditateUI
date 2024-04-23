@@ -98,13 +98,6 @@ fun HomeScreen() {
                         BlueViolet1,
                         BlueViolet2,
                         BlueViolet3
-                    ),
-                    Feature(
-                        title = "Visionary",
-                        R.drawable.ic_headphone,
-                        OrangeYellow1,
-                        OrangeYellow2,
-                        OrangeYellow3
                     )
                 )
             )
